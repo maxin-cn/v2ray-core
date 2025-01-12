@@ -1,0 +1,8 @@
+# 内容 https://www.qweather.com
+# 参考 https://raw.githubusercontent.com/qichiyuhub/rule/refs/heads/master/AI.list
+
+# 域名关键字匹配
+DOMAIN-KEYWORD,www
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,qweather.com
